@@ -1,0 +1,85 @@
+.flex{
+    display: flex;
+    gap: 80px;
+}
+.bg{
+    background: #304C8D;
+}
+.flex p{
+    color: #fff;
+}
+.ok{
+    width: 170px;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    color: #fff;
+}
+.gg{
+    background: #44ACE1;
+}
+.kid{
+    background: url(https://kautilya.edu.np/storage/uploads/homesiderthreepng-2023-03-08-10-51-06.png);
+    height: 550px;
+    background-size: cover;
+    overflow: hidden;
+}
+.box{
+    position: relative;
+    width: 50%;
+    height: 550px;
+    background: #ffffff8b;
+}
+.in{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+}
+.k{
+    border: 20px solid #3B3F5F;
+    border-radius: 50px 0;
+}
+.ko{
+    color: #6C757D;
+    border-radius: 20px;
+    position: relative;
+    right: -66px;
+    background: #fff;
+    top: 20px;
+}
+.ez{
+    width: 400px;
+    height: 250px;
+    background: #11365F;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+}
+.ez:hover{
+    background: #fff;
+    color: #11365F;
+}
+.a{
+    font-size: 45px;
+}
+.g{
+    gap: 10px;
+}
+.g p{
+    font-size: 14px;
+}
+.pp{
+    background: #11365F;
+}
+.bv h4{
+    color: #11365F;
+}
+.glex{
+    display: flex;
+    justify-content: space-between ;
+    color: #fff;
+}
+.da{
+    background: #11365F;
+}
+
